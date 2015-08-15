@@ -1,7 +1,7 @@
 {
   "name": "x11-prop-stream",
   "description": "Read X window props via streaming",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Raymond Hammarling",
